@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sidharth 👋
 
-<!--
-**SIDHARTHPANIGRAHI/SIDHARTHPANIGRAHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Web Developer passionate about building full-stack web applications.  
+🚀 Currently working on projects with **HTML, CSS, JavaScript, Node.js, Express, and MongoDB**.  
+📚 Constantly learning and improving my skills in web technologies and modern frameworks.  
+🌱 Open to collaborations on interesting projects!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, EJS, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharthpanigrahi&show_icons=true&theme=radical)
+
+---
+
+🔗 [LinkedIn][(https://www.linkedin.com/in/sidharth-panigrahi-1785b0266/) | 📫 sidharthpanigrahi2003@gmail.com
+
